@@ -38,9 +38,9 @@ My name is Daniel García Paniagua, I'm a Computer systems Engineering Student, 
 
 ## :fire: My Stats 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dany-GP&theme=dark&hide_border=true&border=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dany-GP&theme=dracula&hide_border=true&locale=es&border=FFFFFF)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dany-GP&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dany-GP&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Dany-GP/Dany-GP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
