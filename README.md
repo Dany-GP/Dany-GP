@@ -17,7 +17,7 @@ My name is Daniel García Paniagua, I'm a Computer systems Engineering Student, 
   </a>
   
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
@@ -36,7 +36,8 @@ My name is Daniel García Paniagua, I'm a Computer systems Engineering Student, 
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg" title="Azure" **alt="Azure" width="40" height="40"/>
 </div>
 
-### :fire: My Stats 
+## :fire: My Stats 
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dany-GP&theme=dark&hide_border=true&border=FFFFFF)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dany-GP&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
