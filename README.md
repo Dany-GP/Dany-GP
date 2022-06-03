@@ -11,9 +11,9 @@
 </div>
 
 ## :man_technologist: About me
-My name is Daniel García Paniagua, I'm a Computer systems Engineering Student, currenntly I'm in eighth semester with preference for web technologies and cloud services. I'm currently looking for a job focused on Junior Web developer, Software engineer junior developer, junior Android developer and more like that. If you want to contact me, please call me by my 
+My name is Daniel García Paniagua, I'm a Computer systems Engineering Student, currenntly I'm in eighth semester with preference for web technologies and cloud services. I'm currently looking for a job focused on Junior Web developer, Junior Software engineer, junior Android developer and more like that. If you want to contact me, please call me by my 
   <a align="center" href="https://www.linkedin.com/in/daniel-garc%C3%ADa-paniagua-2b277323b/">
-    linkedIn
+    LinkedIn
   </a>
   
 
@@ -38,7 +38,7 @@ My name is Daniel García Paniagua, I'm a Computer systems Engineering Student, 
 
 ## :fire: My Stats 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dany-GP&theme=dracula&hide_border=true&locale=es&border=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dany-GP&theme=dracula&hide_border=true&locale=en&border=FFFFFF)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dany-GP&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
